@@ -1,11 +1,12 @@
-#form{
+/* #form{
  text-align: center; 
 padding-top:20% ;
-}
+} */
 
-#content{
-   padding: 10px;
-}
+
 p{
-    margin: 10px;
+    /* text-align: center; */
+}
+#submit{
+
 }
